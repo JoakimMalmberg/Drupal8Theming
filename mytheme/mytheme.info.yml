@@ -6,6 +6,7 @@ screenshot: mytheme.jpg
 
 regions:
   header: Header
+  mythememenu: Navigation
   content: Content
   sidebar_first: Sidebar First
   footer: Footer
